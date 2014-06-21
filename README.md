@@ -1,4 +1,4 @@
-XEGOChart
+XOGOChart
 =========
 
-XEGO Chart
+XOGO Chart
